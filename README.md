@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-WIP
+You are early! The empty canva here is waiting for the magic brush 🎨
 
 <!--
 **odegnome/odegnome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
