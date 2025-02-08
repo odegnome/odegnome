@@ -25,9 +25,8 @@ Tools:     Git, Github <br>
 
 ### Reach out
 
-[![Mail](https://img.shields.io/badge/-Mail-red?style=social&label=Mail)](mailto:mail@odeg.dev)
+[![Mail](https://img.shields.io/badge/-Odeg-red?style=social&label=Mail)](mailto:mail@odeg.dev)
 [![X (formerly Twitter) URL](https://img.shields.io/twitter/follow/RishabhGoel?style=social)](https://x.com/R1shabh_G0el)
-<!-- ![](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FR1shabh_G0el) -->
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rishabh-odeg/)](https://www.linkedin.com/in/rishabh-odeg/)
 
 <!--
