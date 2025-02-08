@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-You are early! Please come back later for the grand unveiling 🎨
-
 ### About Me
 
 I'm a software developer proficient in Rust & Python and always aim to build
