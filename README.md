@@ -18,15 +18,16 @@ I'm open to contributing to open source projects. Please reach out and we can co
 
 ### Technologies
 
-Languages: Rust, Python, C
-Framework: CosmWasm
-Databases: SQLite, MySQL
-Tools:     Git, Github
+Languages: Rust, Python, C <br>
+Framework: CosmWasm <br>
+Databases: SQLite, MySQL <br>
+Tools:     Git, Github <br>
 
 ### Reach out
 
-mail:     mailto:mail@odeg.dev
-linkedin: https://www.linkedin.com/in/rishabh-odeg/
+![Mail](https://img.shields.io/badge/:badgeContent?style=social&label=Mail&link=mailto%3Amail%40odeg.dev)
+![LinkedIn](https://img.shields.io/badge/:badgeContent?style=social&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frishabh-odeg%2F)
+![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FR1shabh_G0el)
 
 <!--
 **odegnome/odegnome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
