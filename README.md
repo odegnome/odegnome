@@ -26,8 +26,9 @@ Tools:     Git, Github <br>
 ### Reach out
 
 ![Mail](https://img.shields.io/badge/:badgeContent?style=social&label=Mail&link=mailto%3Amail%40odeg.dev)
-![LinkedIn](https://img.shields.io/badge/:badgeContent?style=social&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frishabh-odeg%2F)
+<!-- ![LinkedIn](https://img.shields.io/badge/LinkedIn:badgeContent?style=social&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frishabh-odeg%2F) -->
 ![X (formerly Twitter) URL](https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2FR1shabh_G0el)
+[![Linkedin](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rishabh-odeg/)](https://www.linkedin.com/in/rishabh-odeg/)
 
 <!--
 **odegnome/odegnome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
